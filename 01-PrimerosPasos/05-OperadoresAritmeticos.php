@@ -27,7 +27,7 @@
         echo "<br/>";
 
         //Modulo o Resto
-        echo "La Division es: ".($NumeroUno % $NumeroDos);
+        echo "Modulo : ".($NumeroUno % $NumeroDos);
         echo "<br/>";
     ?>
 </body>
